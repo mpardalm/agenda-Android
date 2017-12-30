@@ -1,4 +1,4 @@
-package com.mpardalm.agenda;
+package com.mpardalm.mi_agenda;
 
 import org.junit.Test;
 

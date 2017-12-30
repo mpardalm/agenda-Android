@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">Agenda</string>
+    <string name="app_name">My_Agend</string>
+    <string name="title_activity_add_contact">AddContactActivity</string>
+    <string name="hinteditTextSearch">Find Contact</string>
+    <string name="nombreContacto">Name</string>
+    <string name="telefonoUsuario">Phone Number</string>
+    <string name="saveContactButton">Save Contact</string>
+    <string name="volverButton">HOME</string>
+    <string name="nombreText">NAME</string>
+    <string name="telefonoText">PHONE CONTACT</string>
+    <string name="encontrado">Contact Not Found</string>
+    <string name="creado">Contact Succesfully Created</string>
+    <string name="actualizado">Updated Contact</string>
+    <string name="errorTitulo">ERROR</string>
+    <string name="mensaje">Name or Phone Number Not Correct</string>
+    <string name="llamada">Calling...</string>
 </resources>

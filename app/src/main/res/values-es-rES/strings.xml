@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi_Agenda</string>
+    <string name="title_activity_add_contact">AddContactActivity</string>
+    <string name="hinteditTextSearch">Buscar Contacto</string>
+    <string name="nombreContacto">Nombre</string>
+    <string name="telefonoUsuario">Telefono</string>
+    <string name="saveContactButton">Guardar Contacto</string>
+    <string name="volverButton">INICIO</string>
+    <string name="nombreText">NOMBRE</string>
+    <string name="telefonoText">TELEFONO</string>
+    <string name="encontrado">Contacto No Encontrado</string>
+    <string name="creado">Contacto Creado</string>
+    <string name="actualizado">Contacto Actualizado</string>
+    <string name="errorTitulo">ERROR</string>
+    <string name="mensaje">Nombre o Telefono introducido no valido/s</string>
+    <string name="llamada">Llamando...</string>
+</resources>
